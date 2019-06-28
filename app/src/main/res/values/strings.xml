@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">elaniin</string>
+    <string name="signed_out">Sign Out</string>
+    <string name="google_title_text">Google Sign In</string>
+    <string name="desc_firebase_lockup">Firebase logo y nombre</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="sign_out">Signed Out</string>
+    <string name="loading">Loading</string>
+    <string name="google_status_fmt">Google User: %s</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="title_activity_main">Equipos</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="region">Regiones Pokemon</string>
+    <string name="title_activity_team">Team</string>
+    <string name="teamName">Nombre Equipo</string>
+    <string name="teamNumber">Numero</string>
+    <string name="teamDescription">Descripción</string>
+    <string name="pokedexType">Tipo de pokedex</string>
+    <string name="selectPokemon">Selecciona un pokemon</string>
+    <string name="addPokemon">Agregar pokemon</string>
+    <string name="delete">Eliminar</string>
+    <string name="deleteMessage">Desea eliminar este pokemon?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancelar</string>
+    <string name="requered">Campo Requerido</string>
+    <string name="error">Error</string>
+    <string name="pokemonCount">Pokemon \nCantidad Mínima 3 \nCantidad Máxima 6</string>
+    <string name="teamSave">Equipo guardado satisfactoriamente</string>
+</resources>

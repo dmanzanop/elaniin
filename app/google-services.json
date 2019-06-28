@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "721989789332",
+    "firebase_url": "https://elaniin.firebaseio.com",
+    "project_id": "elaniin",
+    "storage_bucket": "elaniin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721989789332:android:911b6b39f36250a6",
+        "android_client_info": {
+          "package_name": "com.test.elaniin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721989789332-79hvtp9ro1gg58arnc2ujpj7p07satvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNVc8O3YFqo8TnBmXP1BMUmASOuZeulwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721989789332-79hvtp9ro1gg58arnc2ujpj7p07satvc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "721989789332-laejl3oclcq3eavu45pf6oagaocnlpiq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.test.elaniin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
